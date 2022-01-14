@@ -10,7 +10,7 @@
 
 6)Gerekli Şeyler Kuruldu  sonra  ise
 
-7) https://github.com/Sahmeranorg/AkincilarTimi.py
+7) git clone https://github.com/Sahmeranorg/AkincilarTimi.py
 
 8) python3 AkincilarTimi.py
 
