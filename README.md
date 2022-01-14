@@ -10,9 +10,9 @@
 
 6)Gerekli Şeyler Kuruldu  sonra  ise
 
-7) cd /sdcard/dosyanın olduğu Klasör
+7) https://github.com/Sahmeranorg/AkincilarTimi.py
 
-8) python3 HESAP VURMA @AkincilarTimi.py
+8) python3 AkincilarTimi.py
 
 BU KADAR.
 
